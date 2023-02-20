@@ -24,12 +24,12 @@
 ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 ===============================================================================================
 ```
-
+                              In French and English
 
 ___
 # __English__
 
-## Tools for the Digital Alliance of Canada's Cloud Computing (DRAC) Environment !
+## Tools for the Digital Research Alliance of Canada's (DRAC) Cloud Computing Environment !
 
 This project exists to make it easier to 1) create a tailored virtual machine, and 2) provision a cloud instance and deploy the VM to a cloud. The Cloud here will be an OpenStack one.
 
